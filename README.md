@@ -13,3 +13,10 @@
 ![iparking_uml2](https://user-images.githubusercontent.com/72433232/100400935-59d30d80-309b-11eb-9b0c-c4bde8fce4d4.png)
 ![iparking_uml3](https://user-images.githubusercontent.com/72433232/100400936-5b043a80-309b-11eb-803b-81e5ecd6c1a0.png)
 
+## 아이파킹 스트리트 (Android Native Application)
+### 스토어 링크 (없음)
+### 뷰
+## 정의
+- 노상 주차장의 주차 관리자가 스마트폰을 이용하여 주차 업무를 관리할 수 있도록 다양한 기능을 제공하는 애플리케이션
+### 메뉴규조도
+
