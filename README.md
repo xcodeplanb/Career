@@ -1,5 +1,7 @@
 # career
 ## 아이파킹 앱 (Android Native Application)
+### 뷰
+![iparking_screenshot](https://user-images.githubusercontent.com/72433232/100401681-84be6100-309d-11eb-8fc8-a244e4d1b2f0.png)
 ### 정의
 - 전국 주차장 정보 제공
 - 각종 주차 상품권 구매 및 모바일 주차권 제공
