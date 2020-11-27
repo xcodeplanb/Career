@@ -1,5 +1,7 @@
 # career
 ## 아이파킹 앱 (Android Native Application)
+### 스토어 링크
+- https://play.google.com/store/apps/details?id=kr.co.iparking.android
 ### 뷰
 ![iparking_screenshot](https://user-images.githubusercontent.com/72433232/100401681-84be6100-309d-11eb-8fc8-a244e4d1b2f0.png)
 ### 정의
