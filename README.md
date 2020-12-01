@@ -19,7 +19,7 @@
 ### 스토어 링크 (없음)
 ### 뷰
 ![street_screenshot_1](https://user-images.githubusercontent.com/72433232/100558587-5be2d980-32f2-11eb-9ac5-6f358408a295.jpg)
-## 정의
+### 정의
 - 노상 주차장의 주차 관리자가 스마트폰을 이용하여 주차 업무를 관리할 수 있도록 다양한 기능을 제공하는 애플리케이션
 ### 메뉴규조도
 ![street_uml1](https://user-images.githubusercontent.com/72433232/100403784-26947c80-30a3-11eb-80b5-c2c5a2903ed3.png)
