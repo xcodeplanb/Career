@@ -47,3 +47,7 @@
 - 대구 : https://play.google.com/store/apps/details?id=kr.co.parkingcloud.daegu
 ### 뷰
 ![screenshot](https://user-images.githubusercontent.com/72433232/100708621-fd038a00-33ef-11eb-9f44-fb97da51c048.png)
+### 정의
+- 지자체 관리 하에 있는 주차장에 한하여 만들어진 아이파킹 미니 버전
+- 고양시 주차장 정보 제공 및 정기권 납부
+
