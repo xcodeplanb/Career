@@ -46,3 +46,4 @@
 - 용인 : https://play.google.com/store/apps/details?id=kr.co.parkingcloud.yongin
 - 대구 : https://play.google.com/store/apps/details?id=kr.co.parkingcloud.daegu
 ### 뷰
+![screenshot](https://user-images.githubusercontent.com/72433232/100708621-fd038a00-33ef-11eb-9f44-fb97da51c048.png)
