@@ -50,4 +50,12 @@
 ### 정의
 - 지자체 관리 하에 있는 주차장에 한하여 만들어진 아이파킹 미니 버전
 - 고양시 주차장 정보 제공 및 정기권 납부
-
+### 메뉴규조도
+![local_1](https://user-images.githubusercontent.com/72433232/100708323-72bb2600-33ef-11eb-9f6f-2a1b381f4078.png)
+![local_2](https://user-images.githubusercontent.com/72433232/100708324-72bb2600-33ef-11eb-8a97-dd0a7f864dbb.png)
+![local_3](https://user-images.githubusercontent.com/72433232/100708325-7353bc80-33ef-11eb-9311-b9d93eaefc0d.png)
+![local_4](https://user-images.githubusercontent.com/72433232/100708326-7353bc80-33ef-11eb-97bd-c8729b2a81fc.png)
+![local_5](https://user-images.githubusercontent.com/72433232/100708327-73ec5300-33ef-11eb-86e2-f6aecf5dc2c1.png)
+![local_6](https://user-images.githubusercontent.com/72433232/100708329-73ec5300-33ef-11eb-8a34-8f36bdc80c39.png)
+![local_7](https://user-images.githubusercontent.com/72433232/100708330-7484e980-33ef-11eb-80b3-001512063087.png)
+![local_8](https://user-images.githubusercontent.com/72433232/100708331-7484e980-33ef-11eb-9102-a0c2ceb64084.png)
