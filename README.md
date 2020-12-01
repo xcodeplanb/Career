@@ -42,7 +42,7 @@
 ## 지자체 공영주차장 (Android Native Application)
 ### 담당 : 운영 및 유지보수
 ### 스토어 링크
-고양 : https://play.google.com/store/apps/details?id=kr.co.parkingcloud.goyang
-용인 : https://play.google.com/store/apps/details?id=kr.co.parkingcloud.yongin
-대구 : https://play.google.com/store/apps/details?id=kr.co.parkingcloud.daegu
+- 고양 : https://play.google.com/store/apps/details?id=kr.co.parkingcloud.goyang
+- 용인 : https://play.google.com/store/apps/details?id=kr.co.parkingcloud.yongin
+- 대구 : https://play.google.com/store/apps/details?id=kr.co.parkingcloud.daegu
 ### 뷰
