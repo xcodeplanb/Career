@@ -6,6 +6,7 @@
 ### 뷰
 - 반려견 산책 및 통계
 - 산책 리워드를 통한 펫핑샵 구매
+
 ## 아이파킹 앱 -(Android Native Application)
 ### 담당 : 개발(100%), 운영 및 유지보수
 ### 스토어 링크
@@ -46,6 +47,7 @@
 ![street_uml15](https://user-images.githubusercontent.com/72433232/100403809-2bf1c700-30a3-11eb-97fb-50326c4a67d3.png)
 ![street_uml16](https://user-images.githubusercontent.com/72433232/100403810-2c8a5d80-30a3-11eb-9c68-a2e68a184ab6.png)
 ***
+
 ## 지자체 공영주차장 (Android Native Application)
 ### 담당 : 운영 및 유지보수
 ### 스토어 링크
