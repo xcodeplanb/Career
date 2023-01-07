@@ -13,6 +13,7 @@
 ###
 애니매이션(motionlayout)
 7개의 scene xml로 구성
+![motionlayout](https://user-images.githubusercontent.com/72433232/211143563-8277f789-7b9b-4cc0-b0b6-a42f6d9415f2.png)
 
 ## 아이파킹 앱 -(Android Native Application)
 ### 담당 : 개발(100%), 운영 및 유지보수
