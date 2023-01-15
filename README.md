@@ -15,10 +15,10 @@
 * Single Activity로 구성되었고 navigation component에 각 프래그먼트가 포함
 * 서브메뉴가 있는경우 중첩그래프로 분리하였고 메인액티비티와의 통신은 액티비티 공유 뷰모엘을 통하여 이루어짐
 
-### 애니매이션(motionlayout)
+### 애니매이션(motionlayout 토이프로젝트)
 ![animation](https://user-images.githubusercontent.com/72433232/211143749-2822d13e-64c5-4fe1-b9c3-f6e1fc139342.gif)
-
-* 실제 펫핑앱은 프론트 개발자의 웹소스로 웹뷰위에 구현되었지만 부재로 인하여 네이티브 구현 가능성 테스트 용도
+* 실제 펫핑앱은 프론트 개발자의 웹소스로 웹뷰위에 구현되었지만 부재로 인하여 
+* 네이티브 구현 가능성 테스트 용도
 * 7개의 scene xml로 구성
 ![motionlayout](https://user-images.githubusercontent.com/72433232/211143563-8277f789-7b9b-4cc0-b0b6-a42f6d9415f2.png)
 
