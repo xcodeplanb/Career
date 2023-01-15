@@ -8,8 +8,8 @@
 ### 정의
 - 반려견 산책 및 통계
 - 산책 리워드를 통한 펫핑샵 구매
-### 메뉴규조도
-
+### 프로젝트 패키지 구조
+- https://github.com/xcodeplanb/career/issues/2#issuecomment-1383075418
 ### 애니매이션(motionlayout)
 ![animation](https://user-images.githubusercontent.com/72433232/211143749-2822d13e-64c5-4fe1-b9c3-f6e1fc139342.gif)
 
