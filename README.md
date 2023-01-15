@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/72433232/212527967-55344741-de84-4720-a164-533b2ba49ab0.png" width="40%" height="40%"/>
 
 * Android 권장 앱 아키덱처 레이어에서 도메인 레이어(optional)를 제외한 구조
-* single Activity로 구성되었고 navigation component에 각 프래그먼트가 포함
+* Single Activity로 구성되었고 navigation component에 각 프래그먼트가 포함
 * 서브메뉴가 있는경우 중첩그래프로 분리하였고 메인액티비티와의 통신은 액티비티 공유 뷰모엘을 통하여 이루어짐
 
 ### 애니매이션(motionlayout)
