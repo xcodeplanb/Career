@@ -1,6 +1,6 @@
 # career
 ## 펫핑 앱 -(Android Native Application)
-### 담당 : 개발(70%, ), 운영 및 유지보수
+### 담당 : 개발(프로젝트구조,산책,회원 관련 및 기타) 개발 및 유지보수
 ### 스토어 링크
 - https://play.google.com/store/apps/details?id=com.smallticket.petping
 ### 뷰
