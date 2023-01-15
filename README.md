@@ -4,6 +4,7 @@
 ### 스토어 링크
 - https://play.google.com/store/apps/details?id=com.smallticket.petping
 ### 뷰
+- <img src="https://user-images.githubusercontent.com/72433232/212531093-d957967f-b516-4dd7-b401-a9ea2b9ab18b.jpg" width="40%" height="40%"/>
 
 ### 정의
 - 반려견 산책 및 통계
@@ -15,7 +16,7 @@
 * Single Activity로 구성되었고 navigation component에 각 프래그먼트가 포함
 * 서브메뉴가 있는경우 중첩그래프로 분리하였고 메인액티비티와의 통신은 액티비티 공유 뷰모엘을 통하여 이루어짐
 
-### 애니매이션(motionlayout 토이프로젝트)
+### 애니매이션(motionlayout 샘플)
 ![animation](https://user-images.githubusercontent.com/72433232/211143749-2822d13e-64c5-4fe1-b9c3-f6e1fc139342.gif)
 * 실제 펫핑앱은 프론트 개발자의 웹소스로 웹뷰위에 구현되었지만 부재로 인하여 
 * 네이티브 구현 가능성 테스트 용도
