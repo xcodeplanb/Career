@@ -22,7 +22,7 @@
 ### 스토어 링크
 - https://play.google.com/store/apps/details?id=kr.co.iparking.android
 ### 뷰
-![iparking_screenshot](https://user-images.githubusercontent.com/72433232/100401681-84be6100-309d-11eb-8fc8-a244e4d1b2f0.png)
+![iparking_screenshot]<img src = "(https://user-images.githubusercontent.com/72433232/100401681-84be6100-309d-11eb-8fc8-a244e4d1b2f0.png)" width="width 50%" height="height 50%">
 ### 정의
 - 전국 주차장 정보 제공
 - 각종 주차 상품권 구매 및 모바일 주차권 제공
