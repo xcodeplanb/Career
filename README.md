@@ -9,11 +9,16 @@
 - 반려견 산책 및 통계
 - 산책 리워드를 통한 펫핑샵 구매
 ### 프로젝트 패키지 구조
-- https://github.com/xcodeplanb/career/issues/2#issuecomment-1383075418
+<img src="https://user-images.githubusercontent.com/72433232/212527967-55344741-de84-4720-a164-533b2ba49ab0.png" width="40%" height="40%"/>
+
+* Android 권장 앱 아키덱처 레이어에서 도메인 레이어(optional)를 제외한 구조
+* single Activity로 구성되었고 navigation component에 각 프래그먼트가 포함
+* 서브메뉴가 있는경우 중첩그래프로 분리하였고 메인액티비티와의 통신은 액티비티 공유 뷰모엘을 통하여 이루어짐
+
 ### 애니매이션(motionlayout)
 ![animation](https://user-images.githubusercontent.com/72433232/211143749-2822d13e-64c5-4fe1-b9c3-f6e1fc139342.gif)
 
-* 실제 펫핑앱은 프론트 개발자의 웹소스로 웹뷰위에 구현되었지만 부재로 인하여 네이티브로 똑같이 재현 가능성 테스트 용도
+* 실제 펫핑앱은 프론트 개발자의 웹소스로 웹뷰위에 구현되었지만 부재로 인하여 네이티브 구현 가능성 테스트 용도
 * 7개의 scene xml로 구성
 ![motionlayout](https://user-images.githubusercontent.com/72433232/211143563-8277f789-7b9b-4cc0-b0b6-a42f6d9415f2.png)
 
