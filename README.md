@@ -4,7 +4,7 @@
 ### 스토어 링크
 - https://play.google.com/store/apps/details?id=com.smallticket.petping
 ### 뷰
-- <img src="https://user-images.githubusercontent.com/72433232/212531093-d957967f-b516-4dd7-b401-a9ea2b9ab18b.jpg" width="40%" height="40%"/>
+<img src="https://user-images.githubusercontent.com/72433232/212531093-d957967f-b516-4dd7-b401-a9ea2b9ab18b.jpg" width="20%" height="20%"/>
 
 ### 정의
 - 반려견 산책 및 통계
