@@ -9,7 +9,7 @@
 ### 정의
 - 반려견 산책 및 통계
 - 산책 리워드를 통한 펫핑샵 구매
-### 초기 프로젝트 패키지 구조
+### 패키지 구조
 <img src="https://user-images.githubusercontent.com/72433232/212527967-55344741-de84-4720-a164-533b2ba49ab0.png" width="40%" height="40%"/>
 
 * Android 권장 앱 아키덱처 레이어에서 도메인 레이어(optional)를 제외한 구조
