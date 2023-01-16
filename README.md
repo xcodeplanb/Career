@@ -18,8 +18,7 @@
 
 ### 애니매이션(motionlayout 샘플)
 ![animation](https://user-images.githubusercontent.com/72433232/211143749-2822d13e-64c5-4fe1-b9c3-f6e1fc139342.gif)
-* 실제 펫핑앱은 프론트 개발자의 웹소스로 웹뷰위에 구현되었지만 부재로 인하여 
-* 네이티브 구현 가능성 테스트 용도
+* 실제 펫핑앱은 프론트 개발자의 웹소스로 웹뷰에 구현되었지만 리소스 부족으로 네이티브 구현 가능성 테스트 용도
 * 7개의 scene xml로 구성
 ![motionlayout](https://user-images.githubusercontent.com/72433232/211143563-8277f789-7b9b-4cc0-b0b6-a42f6d9415f2.png)
 
