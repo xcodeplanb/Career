@@ -4,7 +4,7 @@
 ### 스토어 링크
 - https://play.google.com/store/apps/details?id=com.smallticket.petping
 ### 뷰
-<img src="https://user-images.githubusercontent.com/72433232/212531093-d957967f-b516-4dd7-b401-a9ea2b9ab18b.jpg" width="20%" height="20%"/>
+<img width="20%" height="20%" alt="스크린샷 2023-01-15 오후 4 14 41" src="https://user-images.githubusercontent.com/72433232/213095061-801890a8-f07d-462c-91a2-54b1c4f02cef.png"><img width="20%" height="20%" alt="스크린샷 2023-01-15 오후 4 14 41" src="https://user-images.githubusercontent.com/72433232/213095060-04ac7b36-a497-47c5-be21-609d863838ed.png"><img width="20%" height="20%" alt="스크린샷 2023-01-15 오후 4 14 41" src="https://user-images.githubusercontent.com/72433232/213095058-af65de30-3808-414e-a11f-e9fd6ab9f9a3.png"><img width="20%" height="20%" alt="스크린샷 2023-01-15 오후 4 14 41" src="https://user-images.githubusercontent.com/72433232/213095055-0e63be2c-c4bb-4bc8-9c18-c23533f257ec.png"><img width="20%" height="20%" alt="스크린샷 2023-01-15 오후 4 14 41" src="https://user-images.githubusercontent.com/72433232/213095052-e7680d49-ec6f-48c8-aa38-2bc7cd468070.png"><img width="20%" height="20%" alt="스크린샷 2023-01-15 오후 4 14 41" src="https://user-images.githubusercontent.com/72433232/213095050-03496145-7056-4380-9861-5eee46786afd.png">
 
 ### 정의
 - 반려견 산책 및 통계
