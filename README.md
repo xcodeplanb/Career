@@ -11,10 +11,9 @@
 - 산책 리워드를 통한 펫핑샵 구매
 
 ### 애니매이션(motionlayout 샘플)
-![animation](https://user-images.githubusercontent.com/72433232/211143749-2822d13e-64c5-4fe1-b9c3-f6e1fc139342.gif)
-* 기존 레거시 펫핑소스의 웹뷰로 만든 애니메이션을 네이티브로 전환하기 위한 용도
-* 7개의 scene xml로 구성
-![motionlayout](https://user-images.githubusercontent.com/72433232/211143563-8277f789-7b9b-4cc0-b0b6-a42f6d9415f2.png)
+<img width="20%" height="20%" alt="스크린샷 2023-01-15 오후 4 14 41" src="https://user-images.githubusercontent.com/72433232/211143749-2822d13e-64c5-4fe1-b9c3-f6e1fc139342.gif">
+
+- 기존 레거시 펫핑소스의 웹뷰로 만든 애니메이션을 네이티브로 전환하기 위한 용도로 총7개의 xml scene 으로 구성
 
 ## 아이파킹 앱 -(Android Native Application)
 ### 담당 : 개발(100%), 운영 및 유지보수
