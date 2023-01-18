@@ -20,7 +20,8 @@
 ### 스토어 링크
 - https://play.google.com/store/apps/details?id=kr.co.iparking.android
 ### 뷰
-![iparking_screenshot](https://user-images.githubusercontent.com/72433232/100401681-84be6100-309d-11eb-8fc8-a244e4d1b2f0.png)
+<img width="20%" height="20%" alt="스크린샷 2023-01-15 오후 4 14 41" src="https://user-images.githubusercontent.com/72433232/213122164-0937fbee-0291-4b24-bb9d-4b1ba057ecaf.png"><img width="20%" height="20%" alt="스크린샷 2023-01-15 오후 4 14 41" src="https://user-images.githubusercontent.com/72433232/213122160-0862ae4d-e904-4e60-9126-93b4cec32c4c.png"><img width="20%" height="20%" alt="스크린샷 2023-01-15 오후 4 14 41" src="https://user-images.githubusercontent.com/72433232/213122156-5a96006d-f6d7-4c6f-8c91-d17eba55727f.png"><img width="20%" height="20%" alt="스크린샷 2023-01-15 오후 4 14 41" src="https://user-images.githubusercontent.com/72433232/213122153-13105edb-c366-4066-9313-a584bcbaa4de.png"><img width="20%" height="20%" alt="스크린샷 2023-01-15 오후 4 14 41" src="https://user-images.githubusercontent.com/72433232/213122144-9b2210a6-a6c8-4254-a931-b9cbbd35021b.png"><img width="20%" height="20%" alt="스크린샷 2023-01-15 오후 4 14 41" src="https://user-images.githubusercontent.com/72433232/213122134-22e8f491-f269-4d0c-9fa5-43df8aacdc7f.png">
+
 ### 정의
 - 전국 주차장 정보 제공
 - 각종 주차 상품권 구매 및 모바일 주차권 제공
