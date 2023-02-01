@@ -1,3 +1,6 @@
+### 개인 템플릿 프로젝트 (진행중)
+ - https://github.com/xcodeplanb/structure
+
 # career
 ## 펫핑 앱 -(Android Native Application)
 ### 담당 : 개발(프로젝트구조,산책,오디오 가이드,회원 관련 및 기타) 개발 및 유지보수
