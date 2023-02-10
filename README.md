@@ -1,4 +1,4 @@
-### 개인 템플릿 프로젝트 (진행중)
+### 개인 템플릿 프로젝트 기본구조 및 샘플
  - https://github.com/xcodeplanb/structure
 
 # career
